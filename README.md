@@ -8,4 +8,4 @@
    5.2 Gör en `commit` som löser konflikten  
    5.3 Gå till steg 4  
 6. Gratulerar, laborationen är godkänd!
-7. För 'extra plus i kanten': Gör också steg 16 - 18 i laborationen!
+7. För 'extra plus i kanten': Gör också steg 17 - 19 i laborationen!
