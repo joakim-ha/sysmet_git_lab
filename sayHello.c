@@ -8,5 +8,6 @@ int main(void)
     printf("Hello from Josefine!");
     printf("Hello from Cecilia!!");
     printf("Hello from Jonathan");
+    printf("Hello from Lucian\n");
     return 0;
 }
