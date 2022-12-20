@@ -6,6 +6,7 @@ int main(void)
     printf("Hello from Rasmus?!\n");
     printf("Hello from John!");
     printf("Hello from Josefine!");
+    printf("Hello from Cecilia!!");
     printf("Hello from Jonathan");
     return 0;
 }
