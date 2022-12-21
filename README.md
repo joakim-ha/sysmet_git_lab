@@ -1,6 +1,6 @@
 ## Laboration med GitHub / Systemutvecklingsmetodik
 1. Hämta en `clone` av detta projekt till din egen dator
-2. Öppna katalogen med det nya arkivet (Open folder => sysmet_git_lab) i VS Code
+2. Öppna katalogen med det nya arkivet (Open folder => sysmet_git_lab) i VS Code  
 2a. Om du arbetar på skolans dator: Gör en ny 'git config' för ditt namn+email
 3. Lägg till en rad `printf("Hello from <ditt namn>\n");` i `sayHello.c`
 4. Gör en `commit` med din förändring
